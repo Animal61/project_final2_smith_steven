@@ -84,10 +84,10 @@ ul {
 }
 
 li {
-    margin: 20px 20px 20px -20px;
+    margin: 20px;
     border-radius: 50%;
     border: 2px solid #000000;
-    padding: 20%;
+    padding: 3%;
     clear: both;
     text-align: center;
     font-size: 1.5em;
@@ -179,16 +179,16 @@ button[type=button] {
     }
 }
 
-@media (min-width: 600px) {
+@media (min-width: 450px) {
 
     main {
-        width: 70%;
+        width: 50%;
         float: left;
     }
 
     aside {
         float: right;
-        width: 30%;
+        width: 50%;
     }
 }
 
@@ -208,5 +208,18 @@ button[type=button] {
 
     .h1 {
         font-size: 3em;
+    }
+
+    li {
+        width: 21%;
+    }
+}
+
+@@media (min-width: 1100px) {
+
+    li {
+        width: 14%;
+        display: inline;
+        clear: none;
     }
 }

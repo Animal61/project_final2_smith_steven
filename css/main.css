@@ -142,3 +142,71 @@ button[type=submit] {
 button[type=button] {
     background: #d16d79;
 }
+
+/* Media Queries */
+@media (min-width: 150px) {
+
+    .h1 {
+        visibility: hidden;
+        font-size: 0;
+    }
+}
+
+@media (min-width: 300px) {
+
+    .h1 {
+        visibility: visible;
+        font-size: 2em;
+        text-align: center;
+    }
+}
+
+@media (min-width: 575px) {
+
+    #logo img {
+        width: 30%;
+        vertical-align: middle;
+        max-width: 280px;
+    }
+
+    .h1 {
+        width: 60%;
+        float: right;
+        margin-top: 0;
+        margin-bottom: 20px;
+        align-content: center;
+
+    }
+}
+
+@media (min-width: 600px) {
+
+    main {
+        width: 70%;
+        float: left;
+    }
+
+    aside {
+        float: right;
+        width: 30%;
+    }
+}
+
+@media (min-width: 800px) {
+
+    #logo img {
+        width: 32%;
+    }
+
+    .h1 {
+        width: 60%;
+        float: right;
+    }
+}
+
+@media (min-width: 900px) {
+
+    .h1 {
+        font-size: 3em;
+    }
+}

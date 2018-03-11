@@ -122,3 +122,23 @@ li {
     color: #ededef;
     font-weight: bold;
 }
+
+button[type=submit],
+button[type=button] {
+    margin: 20px 3%;
+    border: 2px solid #252f48;
+    border-radius: 10px;
+    background: #a9c3b8;
+    color: #252f48;
+    font-family: Permanent Marker;
+    padding: 5%;
+    text-align: center;
+}
+
+button[type=submit] {
+    background: #a9c3b8;
+}
+
+button[type=button] {
+    background: #d16d79;
+}

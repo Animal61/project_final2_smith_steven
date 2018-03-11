@@ -143,6 +143,11 @@ button[type=button] {
     background: #d16d79;
 }
 
+button[type=submit]:hover,
+button[type=button]:hover {
+    background: #1bbcb6;
+}
+
 /* Media Queries */
 @media (min-width: 150px) {
 

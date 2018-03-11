@@ -217,16 +217,16 @@ button[type=button]:hover {
     }
 
     .h1 {
-        width: 65%;
+        width: 75%;
         float: right;
+        padding-top: 20px;
     }
 }
 
 @media (min-width: 900px) {
 
     .h1 {
-        font-size: 3.2em;
-        padding-top: 30px;
+        font-size: 2.6em;
     }
 
     li {
@@ -248,5 +248,12 @@ button[type=button]:hover {
         display: inline;
         clear: none;
         font-size: 1em;
+    }
+}
+
+@media (min-width: 1280px) {
+    .h1 {
+        padding-top: 30px;
+        font-size: 3.6em;
     }
 }

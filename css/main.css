@@ -5,3 +5,65 @@ html {
     max-width: 1280px;
     margin: auto;
 }
+
+body,
+main,
+aside {
+    background: #ededef;
+}
+
+header {
+    background: #1bbcb6;
+}
+
+footer {
+    background: #1bbcb6;
+    color: #000000;
+    font-family: Kurale;
+    text-align: center;
+    margin-top: 1%;
+    padding: 5%;
+    clear: both;
+}
+
+
+#logo {
+    margin: auto;
+    width: 98%;
+}
+
+#logo img {
+    padding: 1%;
+    width: 98%;
+}
+
+h1,
+.h1 {
+    color: #d16d79;
+    font-size: 3em;
+    font-family: Permanent Marker;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+    padding: 0 3%;
+}
+
+p .h1 {
+    text-align: center;
+    margin: auto;
+    padding: 0;
+}
+
+h2,
+.h2 {
+    color: #252f48;
+    font-size: 2em;
+    font-family: Kurale;
+    padding: 0 3%;
+}
+
+p {
+    color: #252f48;
+    font-size: 1em;
+    font-family: Kurale;
+    padding: 0 5%;
+}

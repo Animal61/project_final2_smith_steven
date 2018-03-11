@@ -67,3 +67,14 @@ p {
     font-family: Kurale;
     padding: 0 5%;
 }
+
+img {
+    width: 94%;
+    padding: 0 3%;
+    margin: auto;
+}
+
+.thumbnail {
+    width: 25%;
+    margin: 1% 3% 0;
+}

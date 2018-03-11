@@ -6,11 +6,9 @@
 
 [Website](http://www.kelley-smith.com/advweb2-project2)
 
-Website Validation
+[W3C's Validator](https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.kelley-smith.com%2Fadvweb2-project2%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-    * [W3C's Validator](https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.kelley-smith.com%2Fadvweb2-project2%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-
-    * [W3C's CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.kelley-smith.com%2Fadvweb2-project2%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+[W3C's CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.kelley-smith.com%2Fadvweb2-project2%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 [HTML5 Outliner](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fwww.kelley-smith.com%2Fadvweb2-project2%2F)
 
